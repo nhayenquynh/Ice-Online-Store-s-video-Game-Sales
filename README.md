@@ -12,7 +12,7 @@ In front of you is data going back to 2016. Let’s imagine that it’s December
 
 The dataset contains the abbreviation ESRB. The Entertainment Software Rating Board evaluates a game's content and assigns an age rating such as Teen or Mature.
 
-# Requirements/Questions to be answered: 
+# Instructions/Questions to be answered: 
 
 **Prepare the data**
 1. Replace the column names (make them lowercase).
