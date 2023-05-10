@@ -44,7 +44,8 @@ For each region (NA, EU, JP), determine:
 **Test the following hypotheses**
 1. Average user ratings of the Xbox One and PC platforms are the same.
 2. Average user ratings for the Action and Sports genres are different.
-Set the alpha threshold value yourself.
+3. Set the alpha threshold value yourself.
+
 Explain:
 —How you formulated the null and alternative hypotheses
 —What significance level you chose to test the hypotheses, and why
