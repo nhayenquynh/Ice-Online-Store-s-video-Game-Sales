@@ -19,9 +19,9 @@ The dataset contains the abbreviation ESRB. The Entertainment Software Rating Bo
 2. Convert the data to the required types.
 3. Describe the columns where the data types have been changed and why.
 4. If necessary, decide how to deal with missing values:
-  a. Explain why you filled in the missing values as you did or why you decided to leave them blank.
-  b. Why do you think the values are missing? Give possible reasons.
-  c. Pay attention to the abbreviation TBD (to be determined). Specify how you intend to handle such cases.
+  a.  Explain why you filled in the missing values as you did or why you decided to leave them blank.
+  b.  Why do you think the values are missing? Give possible reasons.
+  c.  Pay attention to the abbreviation TBD (to be determined). Specify how you intend to handle such cases.
 5. Calculate the total sales (the sum of sales in all regions) for each game and put these values in a separate column.
 
 **Analyze the data**
@@ -36,6 +36,7 @@ The dataset contains the abbreviation ESRB. The Entertainment Software Rating Bo
 9. Take a look at the general distribution of games by genre. What can we say about the most profitable genres? Can you generalize about genres with high and low sales?
 
 **Create a user profile for each region**
+
 For each region (NA, EU, JP), determine:
   1. The top five platforms. Describe variations in their market shares from region to region.
   2. The top five genres. Explain the difference.
