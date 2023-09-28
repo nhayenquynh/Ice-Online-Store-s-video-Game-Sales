@@ -47,7 +47,10 @@ For each region (NA, EU, JP), determine:
 2. Average user ratings for the Action and Sports genres are different.
 3. Set the alpha threshold value yourself.
 
-Explain:
+**Explain:**
 —How you formulated the null and alternative hypotheses
 —What significance level you chose to test the hypotheses, and why
+
+# Generated Plots: 
+<img width="1395" alt="image" src="https://github.com/nhayenquynh/Ice-Online-Store-s-video-Game-Sales/assets/125513684/e8e2e448-4498-4e52-80e8-08261db9a499">
 
